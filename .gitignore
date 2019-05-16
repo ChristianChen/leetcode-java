@@ -1,5 +1,11 @@
+# idea
+/.idea
+/out
 # Compiled class file
 *.class
+
+# gradle
+/.gradle
 
 # Log file
 *.log
